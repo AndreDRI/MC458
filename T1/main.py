@@ -1,4 +1,9 @@
 
+def split_and_sort():
+    points_x = []
+    points_y = []
+    print("ok")
+    
 
 def read_input():
     vec = []
@@ -12,3 +17,4 @@ def main():
     print(points)
 
 main()
+
